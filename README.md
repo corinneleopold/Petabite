@@ -12,6 +12,8 @@ CS252 - Systems Programming
 
 Name of Project: Petabite
 ===========
+####http://petabite.mybluemix.net
+
 Description: Petabite is an online picture database that will meet 
 all of the user's adorable animal demands. This platform will allow
 any user to upload their own animal pictures, along with the ability 
@@ -21,7 +23,7 @@ service currently on the market.
 
 
 Technologies Used:
-Bluemix, HTML5, Javascript, CSS, MongoDB, Bootstrap
+IBM Bluemix, HTML5, Javascript, CSS, ElephantSQL (PostgreSQL), Cloud (Object Storage), Node.js, Bootstrap
 
 
 
