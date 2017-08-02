@@ -12,7 +12,7 @@ CS252 - Systems Programming
 
 Name of Project: Petabite
 ===========
-####http://petabite.mybluemix.net
+#### http://petabite.mybluemix.net (now unavailable due to limited-time Bluemix subscription)
 
 Description: Petabite is an online picture database that will meet 
 all of the user's adorable animal demands. This platform will allow
